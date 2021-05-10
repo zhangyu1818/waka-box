@@ -30,4 +30,4 @@
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
 
 ## QA
-如果有什么问题，可以在 issue 里提问~
+如果有什么问题，可以在 issue 里提问!~
